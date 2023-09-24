@@ -4,8 +4,6 @@
 
 ## Overview
 
-Welcome to my Data Analyst portfolio! This repository showcases my proficiency in data analysis and visualization, demonstrating the technical skills that make me a strong candidate for an entry-level Data Analyst position.
-
 In this project, I created a Bike Sales Dashboard using Microsoft Excel. The dashboard offers insights into fictional bike sales data and allows for data exploration and filtering.
 
 ## Project Highlights
